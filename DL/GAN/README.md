@@ -1,5 +1,5 @@
 # GAN 실습
-![image-20200827153149792](C:\Projects\NPEX_LAB\DL\GAN\images\image-20200827153149792.png)
+![image-20200827153149792](../../images/image-20200827153149792.png)
 
 
 

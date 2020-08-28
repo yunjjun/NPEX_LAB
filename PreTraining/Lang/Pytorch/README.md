@@ -1,5 +1,5 @@
 # Pytorch Practice
-![image-20200827155042617](C:\Projects\NPEX_LAB\PreTraining\Lang\Pytorch\images\image-20200827155042617.png)
+![image-20200827155042617](../../../images/image-20200827155042617.png)
 
 ###### **Further Readings**
 
